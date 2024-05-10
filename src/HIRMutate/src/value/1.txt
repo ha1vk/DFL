@@ -1,0 +1,444 @@
+void *HIRMutate::SVG::XMLNSValue::getConstructor()
+{
+    return HANDLE_VOID(XMLNSValue);
+}
+void *HIRMutate::SVG::AlignmentBaselineValue::getConstructor()
+{
+    return HANDLE_VOID(AlignmentBaselineValue);
+}
+void *HIRMutate::SVG::ClipRuleValue::getConstructor()
+{
+    return HANDLE_VOID(ClipRuleValue);
+}
+void *HIRMutate::SVG::ColorInterpolationValue::getConstructor()
+{
+    return HANDLE_VOID(ColorInterpolationValue);
+}
+void *HIRMutate::SVG::RenderingValue::getConstructor()
+{
+    return HANDLE_VOID(RenderingValue);
+}
+void *HIRMutate::SVG::EnableBackgroundValue::getConstructor()
+{
+    return HANDLE_VOID(EnableBackgroundValue);
+}
+void *HIRMutate::SVG::GlyphRefValue::getConstructor()
+{
+    return HANDLE_VOID(GlyphRefValue);
+}
+void *HIRMutate::SVG::UValue::getConstructor()
+{
+    return HANDLE_VOID(UValue);
+}
+void *HIRMutate::SVG::UnicodeValue::getConstructor()
+{
+    return HANDLE_VOID(UnicodeValue);
+}
+void *HIRMutate::SVG::GlyphOrientationVerticalValue::getConstructor()
+{
+    return HANDLE_VOID(GlyphOrientationVerticalValue);
+}
+void *HIRMutate::SVG::NameValue::getConstructor()
+{
+    return HANDLE_VOID(NameValue);
+}
+void *HIRMutate::SVG::OffsetValue::getConstructor()
+{
+    return HANDLE_VOID(OffsetValue);
+}
+void *HIRMutate::SVG::OverflowValue::getConstructor()
+{
+    return HANDLE_VOID(OverflowValue);
+}
+void *HIRMutate::SVG::FeMorphologyOperatorValue::getConstructor()
+{
+    return HANDLE_VOID(FeMorphologyOperatorValue);
+}
+void *HIRMutate::SVG::FeCompositeOperatorValue::getConstructor()
+{
+    return HANDLE_VOID(FeCompositeOperatorValue);
+}
+void *HIRMutate::SVG::OrderValue::getConstructor()
+{
+    return HANDLE_VOID(OrderValue);
+}
+void *HIRMutate::SVG::PointerEventsValue::getConstructor()
+{
+    return HANDLE_VOID(PointerEventsValue);
+}
+void *HIRMutate::SVG::ShapeRenderingValue::getConstructor()
+{
+    return HANDLE_VOID(ShapeRenderingValue);
+}
+void *HIRMutate::SVG::AnimateFillValue::getConstructor()
+{
+    return HANDLE_VOID(AnimateFillValue);
+}
+void *HIRMutate::SVG::StrokeDasharrayValue::getConstructor()
+{
+    return HANDLE_VOID(StrokeDasharrayValue);
+}
+void *HIRMutate::SVG::StrokeLinecapValue::getConstructor()
+{
+    return HANDLE_VOID(StrokeLinecapValue);
+}
+void *HIRMutate::SVG::StrokeLinejoinValue::getConstructor()
+{
+    return HANDLE_VOID(StrokeLinejoinValue);
+}
+void *HIRMutate::SVG::TextAnchorValue::getConstructor()
+{
+    return HANDLE_VOID(TextAnchorValue);
+}
+void *HIRMutate::SVG::VectorEffectValue::getConstructor()
+{
+    return HANDLE_VOID(VectorEffectValue);
+}
+void *HIRMutate::SVG::WordSpacingValue::getConstructor()
+{
+    return HANDLE_VOID(WordSpacingValue);
+}
+void *HIRMutate::SVG::FilterDxValue::getConstructor()
+{
+    return HANDLE_VOID(FilterDxValue);
+}
+void *HIRMutate::SVG::DxValue::getConstructor()
+{
+    return HANDLE_VOID(DxValue);
+}
+void *HIRMutate::SVG::FormatValue::getConstructor()
+{
+    return HANDLE_VOID(FormatValue);
+}
+void *HIRMutate::SVG::AutoWidthValue::getConstructor()
+{
+    return HANDLE_VOID(AutoWidthValue);
+}
+void *HIRMutate::SVG::BBoxValue::getConstructor()
+{
+    return HANDLE_VOID(BBoxValue);
+}
+void *HIRMutate::SVG::OrientValue::getConstructor()
+{
+    return HANDLE_VOID(OrientValue);
+}
+void *HIRMutate::SVG::PanoseValue::getConstructor()
+{
+    return HANDLE_VOID(PanoseValue);
+}
+void *HIRMutate::SVG::PointsValue::getConstructor()
+{
+    return HANDLE_VOID(PointsValue);
+}
+void *HIRMutate::SVG::PreserveAspectRatioValue::getConstructor()
+{
+    return HANDLE_VOID(PreserveAspectRatioValue);
+}
+void *HIRMutate::SVG::MarkerRefXValue::getConstructor()
+{
+    return HANDLE_VOID(MarkerRefXValue);
+}
+void *HIRMutate::SVG::SymbolRefXValue::getConstructor()
+{
+    return HANDLE_VOID(SymbolRefXValue);
+}
+void *HIRMutate::SVG::RXValue::getConstructor()
+{
+    return HANDLE_VOID(RXValue);
+}
+void *HIRMutate::SVG::TableValuesValue::getConstructor()
+{
+    return HANDLE_VOID(TableValuesValue);
+}
+void *HIRMutate::SVG::UnicodeRangeValue::getConstructor()
+{
+    return HANDLE_VOID(UnicodeRangeValue);
+}
+void *HIRMutate::SVG::ViewBoxValue::getConstructor()
+{
+    return HANDLE_VOID(ViewBoxValue);
+}
+void *HIRMutate::SVG::AltGlyphXValue::getConstructor()
+{
+    return HANDLE_VOID(AltGlyphXValue);
+}
+void *HIRMutate::SVG::TextXValue::getConstructor()
+{
+    return HANDLE_VOID(TextXValue);
+}
+void *HIRMutate::SVG::SpacingValue::getConstructor()
+{
+    return HANDLE_VOID(SpacingValue);
+}
+void *HIRMutate::SVG::MethodValue::getConstructor()
+{
+    return HANDLE_VOID(MethodValue);
+}
+void *HIRMutate::SVG::SideValue::getConstructor()
+{
+    return HANDLE_VOID(SideValue);
+}
+void *HIRMutate::SVG::UnitsValue::getConstructor()
+{
+    return HANDLE_VOID(UnitsValue);
+}
+void *HIRMutate::SVG::OrientationValue::getConstructor()
+{
+    return HANDLE_VOID(OrientationValue);
+}
+void *HIRMutate::SVG::AltValue::getConstructor()
+{
+    return HANDLE_VOID(AltValue);
+}
+void *HIRMutate::SVG::ArabicFormValue::getConstructor()
+{
+    return HANDLE_VOID(ArabicFormValue);
+}
+void *HIRMutate::SVG::BaseProfileValue::getConstructor()
+{
+    return HANDLE_VOID(BaseProfileValue);
+}
+void *HIRMutate::SVG::EdgeModeValue::getConstructor()
+{
+    return HANDLE_VOID(EdgeModeValue);
+}
+void *HIRMutate::SVG::LengthAdjustValue::getConstructor()
+{
+    return HANDLE_VOID(LengthAdjustValue);
+}
+void *HIRMutate::SVG::MarkerUnitsValue::getConstructor()
+{
+    return HANDLE_VOID(MarkerUnitsValue);
+}
+void *HIRMutate::SVG::SpreadMethodValue::getConstructor()
+{
+    return HANDLE_VOID(SpreadMethodValue);
+}
+void *HIRMutate::SVG::StitchTilesValue::getConstructor()
+{
+    return HANDLE_VOID(StitchTilesValue);
+}
+void *HIRMutate::SVG::RenderingIntentValue::getConstructor()
+{
+    return HANDLE_VOID(RenderingIntentValue);
+}
+void *HIRMutate::SVG::RGBAValue::getConstructor()
+{
+    return HANDLE_VOID(RGBAValue);
+}
+void *HIRMutate::SVG::ZoomAndPanValue::getConstructor()
+{
+    return HANDLE_VOID(ZoomAndPanValue);
+}
+void *HIRMutate::SVG::DurValue::getConstructor()
+{
+    return HANDLE_VOID(DurValue);
+}
+void *HIRMutate::SVG::RestartValue::getConstructor()
+{
+    return HANDLE_VOID(RestartValue);
+}
+void *HIRMutate::SVG::RepeatCountValue::getConstructor()
+{
+    return HANDLE_VOID(RepeatCountValue);
+}
+void *HIRMutate::SVG::AdditiveValue::getConstructor()
+{
+    return HANDLE_VOID(AdditiveValue);
+}
+void *HIRMutate::SVG::AccumulateValue::getConstructor()
+{
+    return HANDLE_VOID(AccumulateValue);
+}
+void *HIRMutate::SVG::CalcModeValue::getConstructor()
+{
+    return HANDLE_VOID(CalcModeValue);
+}
+void *HIRMutate::SVG::RotateValue::getConstructor()
+{
+    return HANDLE_VOID(RotateValue);
+}
+void *HIRMutate::SVG::AnimateTransformTypeValue::getConstructor()
+{
+    return HANDLE_VOID(AnimateTransformTypeValue);
+}
+void *HIRMutate::SVG::FeColorMatrixTypeValue::getConstructor()
+{
+    return HANDLE_VOID(FeColorMatrixTypeValue);
+}
+void *HIRMutate::SVG::FeFuncTypeValue::getConstructor()
+{
+    return HANDLE_VOID(FeFuncTypeValue);
+}
+void *HIRMutate::SVG::FeTurbulenceValue::getConstructor()
+{
+    return HANDLE_VOID(FeTurbulenceValue);
+}
+void *HIRMutate::SVG::TransformTranslateValue::getConstructor()
+{
+    return HANDLE_VOID(TransformTranslateValue);
+}
+void *HIRMutate::SVG::TransformScaleValue::getConstructor()
+{
+    return HANDLE_VOID(TransformScaleValue);
+}
+void *HIRMutate::SVG::TransformRotateValue::getConstructor()
+{
+    return HANDLE_VOID(TransformRotateValue);
+}
+void *HIRMutate::SVG::TransformSkewXValue::getConstructor()
+{
+    return HANDLE_VOID(TransformSkewXValue);
+}
+void *HIRMutate::SVG::CoordinateValue::getConstructor()
+{
+    return HANDLE_VOID(CoordinateValue);
+}
+void *HIRMutate::SVG::PathValue::getConstructor()
+{
+    return HANDLE_VOID(PathValue);
+}
+void *HIRMutate::SVG::BufferedRenderingValue::getConstructor()
+{
+    return HANDLE_VOID(BufferedRenderingValue);
+}
+void *HIRMutate::SVG::BaselineShiftValue::getConstructor()
+{
+    return HANDLE_VOID(BaselineShiftValue);
+}
+void *HIRMutate::SVG::ColorInterpolationFiltersValue::getConstructor()
+{
+    return HANDLE_VOID(ColorInterpolationFiltersValue);
+}
+void *HIRMutate::SVG::ColorProfileValue::getConstructor()
+{
+    return HANDLE_VOID(ColorProfileValue);
+}
+void *HIRMutate::SVG::DominantBaselineValue::getConstructor()
+{
+    return HANDLE_VOID(DominantBaselineValue);
+}
+void *HIRMutate::SVG::FillRuleValue::getConstructor()
+{
+    return HANDLE_VOID(FillRuleValue);
+}
+void *HIRMutate::SVG::KerningValue::getConstructor()
+{
+    return HANDLE_VOID(KerningValue);
+}
+void *HIRMutate::SVG::PaintOrderValue::getConstructor()
+{
+    return HANDLE_VOID(PaintOrderValue);
+}
+void *HIRMutate::SVG::ImageHrefValue::getConstructor()
+{
+    return HANDLE_VOID(ImageHrefValue);
+}
+void *HIRMutate::SVG::WhiteSpaceValue::getConstructor()
+{
+    return HANDLE_VOID(WhiteSpaceValue);
+}
+void *HIRMutate::SVG::TextOverflowValue::getConstructor()
+{
+    return HANDLE_VOID(TextOverflowValue);
+}
+void *HIRMutate::SVG::CrossoriginValue::getConstructor()
+{
+    return HANDLE_VOID(CrossoriginValue);
+}
+void *HIRMutate::SVG::TransformValue::getConstructor()
+{
+    return HANDLE_VOID(TransformValue);
+}
+void *HIRMutate::SVG::KeySplinesValue::getConstructor()
+{
+    return HANDLE_VOID(KeySplinesValue);
+}
+void *HIRMutate::SVG::KeyPointsValue::getConstructor()
+{
+    return HANDLE_VOID(KeyPointsValue);
+}
+void *HIRMutate::SVG::KeyTimesValue::getConstructor()
+{
+    return HANDLE_VOID(KeyTimesValue);
+}
+void *HIRMutate::SVG::KernelMatrixValue::getConstructor()
+{
+    return HANDLE_VOID(KernelMatrixValue);
+}
+void *HIRMutate::SVG::FeColorMatrixValuesValue::getConstructor()
+{
+    return HANDLE_VOID(FeColorMatrixValuesValue);
+}
+void *HIRMutate::SVG::SVGElementIDValue::getConstructor()
+{
+    return HANDLE_VOID(SVGElementIDValue);
+}
+void *HIRMutate::SVG::FillValue::getConstructor()
+{
+    return HANDLE_VOID(FillValue);
+}
+void *HIRMutate::SVG::BeginValue::getConstructor()
+{
+    return HANDLE_VOID(BeginValue);
+}
+void *HIRMutate::SVG::MarkerValue::getConstructor()
+{
+    return HANDLE_VOID(MarkerValue);
+}
+void *HIRMutate::SVG::PatternHrefValue::getConstructor()
+{
+    return HANDLE_VOID(PatternHrefValue);
+}
+void *HIRMutate::SVG::FeImageHrefValue::getConstructor()
+{
+    return HANDLE_VOID(FeImageHrefValue);
+}
+void *HIRMutate::SVG::UseHrefValue::getConstructor()
+{
+    return HANDLE_VOID(UseHrefValue);
+}
+void *HIRMutate::SVG::GradientHrefValue::getConstructor()
+{
+    return HANDLE_VOID(GradientHrefValue);
+}
+void *HIRMutate::SVG::PathHrefValue::getConstructor()
+{
+    return HANDLE_VOID(PathHrefValue);
+}
+void *HIRMutate::SVG::CursorHrefValue::getConstructor()
+{
+    return HANDLE_VOID(CursorHrefValue);
+}
+void *HIRMutate::SVG::TRefXlinkHrefValue::getConstructor()
+{
+    return HANDLE_VOID(TRefXlinkHrefValue);
+}
+void *HIRMutate::SVG::GlyphRefXlinkHrefValue::getConstructor()
+{
+    return HANDLE_VOID(GlyphRefXlinkHrefValue);
+}
+void *HIRMutate::SVG::AltGlyphXlinkHrefValue::getConstructor()
+{
+    return HANDLE_VOID(AltGlyphXlinkHrefValue);
+}
+void *HIRMutate::SVG::FontFaceUriXlinkHrefValue::getConstructor()
+{
+    return HANDLE_VOID(FontFaceUriXlinkHrefValue);
+}
+void *HIRMutate::SVG::GValue::getConstructor()
+{
+    return HANDLE_VOID(GValue);
+}
+void *HIRMutate::SVG::InValue::getConstructor()
+{
+    return HANDLE_VOID(InValue);
+}
+void *HIRMutate::SVG::FromValue::getConstructor()
+{
+    return HANDLE_VOID(FromValue);
+}
+void *HIRMutate::SVG::AnimationValuesValue::getConstructor()
+{
+    return HANDLE_VOID(AnimationValuesValue);
+}
